@@ -1,6 +1,51 @@
+# 어드민 상품등록 페이지
+
 ## 프로젝트 소개
 
 > 소고기 판매 플랫폼의 관리자 페이지를 가정하여 상품 등록 페이지를 구현했습니다.
+
+## member
+
+<table>
+  <tr>
+        </td>
+      <td align="center">
+      <a href="https://github.com/LEEHYUNHO2001"
+        ><img
+          src="https://avatars.githubusercontent.com/LEEHYUNHO2001"
+          width="100px;"
+          alt=""
+        /><br /><sub><b>이현호</b></sub></a>
+    <br />
+    </td>
+    <td align="center">
+      <a href="https://github.com/hoonjoo-park"
+        ><img
+          src="https://avatars.githubusercontent.com/hoonjoo-park"
+          width="100px;"
+          alt=""
+        /><br /><sub><b>박훈주</b></sub></a
+      ><br />
+    </td>
+    <td align="center">
+      <a href="https://github.com/Yoon-CH"
+        ><img
+          src="https://avatars.githubusercontent.com/Yoon-CH"
+          width="100px;"
+          alt=""
+        /><br /><sub><b>윤창현</b></sub></a
+      ><br />
+    </td>
+    <td align="center">
+      <a href="https://github.com/devjoylee"
+        ><img
+          src="https://avatars.githubusercontent.com/devjoylee"
+          width="100px;"
+          alt=""
+        /><br /><sub><b>이주영</b></sub></a
+      ><br />
+  </tr>
+</table>
 
 | 이름   | 담당                                        |
 | ------ | ------------------------------------------- |
@@ -14,6 +59,14 @@
 ## 배포 주소
 
 https://wanted-admin-product.netlify.app/
+
+<br/>
+
+## 프로젝트 사진
+
+![프로젝트 미리보기](https://user-images.githubusercontent.com/67448481/151669344-cfa9df9b-465b-4635-8782-0edc7a896f98.png)
+
+
 
 <br/>
 
